@@ -1,0 +1,84 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="28.2.3">
+  <diagram name="Page-1" id="ZU5ou_c260VMI8BkDugq">
+    <mxGraphModel dx="1042" dy="1670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="D5_to-sRCKfcogDpb_UM-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D5_to-sRCKfcogDpb_UM-2" target="D5_to-sRCKfcogDpb_UM-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D5_to-sRCKfcogDpb_UM-2" value="start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-1060" width="160" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="D5_to-sRCKfcogDpb_UM-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D5_to-sRCKfcogDpb_UM-40" target="D5_to-sRCKfcogDpb_UM-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D5_to-sRCKfcogDpb_UM-40" value="&amp;nbsp;n" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="-850" width="190" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="D5_to-sRCKfcogDpb_UM-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D5_to-sRCKfcogDpb_UM-65" target="D5_to-sRCKfcogDpb_UM-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D5_to-sRCKfcogDpb_UM-65" value="tích=1&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;i=1&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-652" width="180" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="D5_to-sRCKfcogDpb_UM-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D5_to-sRCKfcogDpb_UM-67" target="D5_to-sRCKfcogDpb_UM-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D5_to-sRCKfcogDpb_UM-67" value="kiểm tra" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-460" width="180" height="118.25" as="geometry" />
+        </mxCell>
+        <mxCell id="D5_to-sRCKfcogDpb_UM-72" value="no" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D5_to-sRCKfcogDpb_UM-69" target="D5_to-sRCKfcogDpb_UM-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D5_to-sRCKfcogDpb_UM-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D5_to-sRCKfcogDpb_UM-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="-170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D5_to-sRCKfcogDpb_UM-76" value="yex" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="D5_to-sRCKfcogDpb_UM-74">
+          <mxGeometry x="0.0506" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D5_to-sRCKfcogDpb_UM-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D5_to-sRCKfcogDpb_UM-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="-30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D5_to-sRCKfcogDpb_UM-69" value="i&amp;lt;=n" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-242.62" width="160" height="142.63" as="geometry" />
+        </mxCell>
+        <mxCell id="D5_to-sRCKfcogDpb_UM-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D5_to-sRCKfcogDpb_UM-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="85" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D5_to-sRCKfcogDpb_UM-71" value="tích" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-221.96" width="150" height="101.31" as="geometry" />
+        </mxCell>
+        <mxCell id="D5_to-sRCKfcogDpb_UM-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D5_to-sRCKfcogDpb_UM-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="330" y="-29.674999999999955" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D5_to-sRCKfcogDpb_UM-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D5_to-sRCKfcogDpb_UM-75">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545" y="-170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D5_to-sRCKfcogDpb_UM-75" value="tích=tích*i&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;i=i+1&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-80" width="170" height="100.65" as="geometry" />
+        </mxCell>
+        <mxCell id="D5_to-sRCKfcogDpb_UM-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D5_to-sRCKfcogDpb_UM-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D5_to-sRCKfcogDpb_UM-81" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="70" width="170" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
