@@ -1,0 +1,59 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="28.2.3">
+  <diagram name="Page-1" id="S0CD4-iP2ZPCd9BG6xO7">
+    <mxGraphModel dx="1042" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pxurYupEFNt7SKJeE5HR-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxurYupEFNt7SKJeE5HR-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pxurYupEFNt7SKJeE5HR-1" value="truy cập app đặt đồ ăn nhanh" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="120" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="pxurYupEFNt7SKJeE5HR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxurYupEFNt7SKJeE5HR-4" target="pxurYupEFNt7SKJeE5HR-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pxurYupEFNt7SKJeE5HR-4" value="thông tin sản phẩm muốn&amp;nbsp;&lt;div&gt;sử dụng&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="320" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pxurYupEFNt7SKJeE5HR-6" value="thông tin cá nhân số tiền&amp;nbsp;&lt;div&gt;phải trả&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="460" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pxurYupEFNt7SKJeE5HR-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxurYupEFNt7SKJeE5HR-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="412.5" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pxurYupEFNt7SKJeE5HR-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxurYupEFNt7SKJeE5HR-7" target="pxurYupEFNt7SKJeE5HR-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="650" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pxurYupEFNt7SKJeE5HR-7" value="lựa chọn phương thức&lt;div&gt;thanh toán&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="335" y="610" width="155" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pxurYupEFNt7SKJeE5HR-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.547;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="pxurYupEFNt7SKJeE5HR-6" target="pxurYupEFNt7SKJeE5HR-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pxurYupEFNt7SKJeE5HR-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pxurYupEFNt7SKJeE5HR-10" target="pxurYupEFNt7SKJeE5HR-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="412.5" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pxurYupEFNt7SKJeE5HR-10" value="lựa chọn địa chỉ và thanh toán&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="770" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pxurYupEFNt7SKJeE5HR-12" value="tiền mặt" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="610" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pxurYupEFNt7SKJeE5HR-14" value="end" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="338.75" y="930" width="147.5" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
